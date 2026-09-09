@@ -17,9 +17,7 @@ I'm currently working on the Medline Operations Problem Navigator.
   <summary>My Skills. </summary>
 
   + Qc/Qe Tester
-  
   + Marketing specialist
-    
   + IT Audit
 </details>
 
