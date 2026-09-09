@@ -1,7 +1,7 @@
 <div>
-<img src="https://github.com/marcdelay.png" width="150"/>
+<img src="https://github.com/odmytrush28.png" width="150"/>
   
- <h1># Hi, my name is Olesia Dmytrush</h1>
+ <h1> Hi, my name is Olesia Dmytrush</h1>
 </div>
 
 I'm a Cycle 60 intern at i.c.stars.
