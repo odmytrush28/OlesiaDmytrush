@@ -14,6 +14,7 @@ I'm currently working on the Medline Operations Problem Navigator.
 <details>
   
   <summary>My Skills. </summary>
+
   
   +Qc/Qe Tester
   
