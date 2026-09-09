@@ -1,7 +1,7 @@
 <div>
 <img src="https://github.com/marcdelay.png" width="150"/>
   
-# Hi, my name is Olesia Dmytrush 
+ <h1># Hi, my name is Olesia Dmytrush</h1>
 </div>
 
 I'm a Cycle 60 intern at i.c.stars.
