@@ -11,12 +11,12 @@ I'm currently working on the Medline Operations Problem Navigator.
 **Currently Building:** First Project for Medline 
 
 **My Goal This Cycle:** I want to find the job 
+
 <details>
   
   <summary>My Skills. </summary>
 
-  
-  +Qc/Qe Tester
+  + Qc/Qe Tester
   
   + Marketing specialist
     
