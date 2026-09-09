@@ -9,5 +9,7 @@ I'm currently working on the Medline Operations Problem Navigator.
 **My Goal This Cycle:** I want to find the job 
 
 **Reach me @**
+
 +[My gmail account account](mail to olesia.dmytrush@gmail.com)
+
 +[My Linkedin Profile](www.linkedin.com/olesiadmytrush)
