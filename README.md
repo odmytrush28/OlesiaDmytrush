@@ -10,6 +10,6 @@ I'm currently working on the Medline Operations Problem Navigator.
 
 **Reach me @**
 
-+[My gmail account](mailto olesia.dmytrush@gmail.com)
++[My gmail account](mailto:olesia.dmytrush@gmail.com)
 
 +[My Linkedin Profile](https://pl.linkedin.com/in/olesia-dmytrush-71b79418a?trk=people-guest_people_search-card)
