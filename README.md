@@ -1,4 +1,4 @@
-<div aling="center">
+<div align="center">
 <img src="https://github.com/odmytrush28.png" width="150"/>
   
  <h1> Hi, my name is Olesia Dmytrush</h1>
